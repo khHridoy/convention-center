@@ -17,3 +17,20 @@ body {
   font-size: 16px;
   color: #3e3e3e;
 }
+
+/* carousel */
+.carousel-item h1 {
+  color: #fff;
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+.carousel-item p {
+  color: #fff;
+  font-size: 16px;
+}
+.carousel-item a {
+  text-decoration: none;
+  display: inline-block;
+  color: #3f87f5;
+  padding: 0.8% 2%;
+}
